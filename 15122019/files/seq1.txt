@@ -1,0 +1,3 @@
+Just simple text, to test my program.
+It must help me understands basics how to work with files.
+Hello world!

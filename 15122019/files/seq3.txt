@@ -1,0 +1,2 @@
+So lets find's out how to concatenate five files to one.
+We need to use SequenceInputStream tool
