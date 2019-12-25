@@ -1,0 +1,14 @@
+Just simple text, to test my program.
+It must help me understands basics how to work with files.
+Hello world!
+Hello Java!
+Viva Las Vegas!
+Ooops! My mistake, or not  :))
+so starts from begin
+Hello World!!!
+So lets find's out how to concatenate five files to one.
+We need to use SequenceInputStream tool
+When we need create Array, where we put all our files, and transform it to enum collection with generic IputStream
+After all of that we write it to our output file.
+So lets test how it works...
+It should be fine...

@@ -1,0 +1,1 @@
+When we need create Array, where we put all our files, and transform it to enum collection with generic IputStream
