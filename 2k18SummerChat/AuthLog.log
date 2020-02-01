@@ -1,0 +1,26 @@
+џэт 29, 2020 10:01:41 AM java.util.logging.LogManager$RootLogger log
+INFO: user nick1 logged successfuly
+џэт 29, 2020 10:01:49 AM java.util.logging.LogManager$RootLogger log
+INFO: user nick2 logged successfuly
+џэт 29, 2020 10:01:57 AM java.util.logging.LogManager$RootLogger log
+INFO: user: nick1 sends broadcast message
+џэт 29, 2020 10:02:02 AM java.util.logging.LogManager$RootLogger log
+INFO: user: nick2 sends broadcast message
+џэт 29, 2020 10:02:07 AM java.util.logging.LogManager$RootLogger log
+INFO: user: nick2 sends broadcast message
+џэт 29, 2020 10:02:13 AM java.util.logging.LogManager$RootLogger log
+INFO: user: nick1 sends broadcast message
+џэт 29, 2020 10:21:51 AM java.util.logging.LogManager$RootLogger log
+INFO: user: ru.geekbrains.chat.server.ClientHandler@75133a8c sends private message to user: nick1
+џэт 29, 2020 10:22:14 AM java.util.logging.LogManager$RootLogger log
+INFO: user: ru.geekbrains.chat.server.ClientHandler@75133a8c adds user: nick1 to blacklist
+џэт 29, 2020 10:22:50 AM java.util.logging.LogManager$RootLogger log
+INFO: user: ru.geekbrains.chat.server.ClientHandler@75133a8c removes user: nick1 from blacklist
+џэт 29, 2020 10:26:09 AM java.util.logging.LogManager$RootLogger log
+INFO: user: nick2 login Out
+џэт 29, 2020 10:26:21 AM java.util.logging.LogManager$RootLogger log
+INFO: user: null login failed, reason: login busy
+џэт 29, 2020 10:26:32 AM java.util.logging.LogManager$RootLogger log
+INFO: user: null login failed, reason: wrong credentials
+џэт 29, 2020 10:26:39 AM java.util.logging.LogManager$RootLogger log
+INFO: user nick2 logged successfuly
